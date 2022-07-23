@@ -21,5 +21,5 @@ Pass in if you would like to use the <em>turtle</em> or the <em>pygame</em> modu
 
 Defualt: turtle, no line, size 5
 
-- `python3 /path/main.py turtle -l 10`
-- `python3 /path/main.py pygame 3`
+`$ python3 /path/main.py turtle -l 10`
+`$ python3 /path/main.py pygame 3`
