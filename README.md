@@ -27,7 +27,7 @@ Defualt: turtle, no line, size 5
 
 \
 There is also a java implementation, which is much faster, but does not have an animation. Default arguments are a size of 2 and no line.\
-The line argument cannot be alone had has to be a boolean after the size argument.
+The line argument cannot be alone has to be a boolean after the size argument.
 
 `$ javad -d /path/java/bin/ /path/java/src/*.java`
 
