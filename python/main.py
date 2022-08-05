@@ -17,9 +17,9 @@ for arg in sys.argv:
         size = int(arg)
 
 if method == 'turtle':
-    import methods.with_turtle as spiral
+    import with_turtle as spiral
 elif method == 'pygame':
-    import methods.with_pygame as spiral
+    import with_pygame as spiral
 
 spiral.init(line, size)
 
